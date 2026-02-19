@@ -4,7 +4,7 @@ description: Craft communications that connect individual effort to historical s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4845
+  version: 1.0.4846
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - revolutionary-rhetoric
